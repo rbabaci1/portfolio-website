@@ -146,16 +146,13 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 		color:rgb(8, 3, 54);
 	}
-	header:hover {
-		color: rgb(219, 28, 28);
-	}
 	
 	header > p {
 		margin: 1em 0 0 0;
 	}
 
 	footer {
-		margin: 2em 0 0 0;
+		margin: 1em 0 0 0;
 	}
 	.iframe {
 		border-radius: 10px;
