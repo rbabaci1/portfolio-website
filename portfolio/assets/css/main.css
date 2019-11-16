@@ -111,7 +111,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
+		font-weight: 500;
 		color: #666;
 		line-height: 1.5em;
 	}
@@ -130,7 +130,6 @@ input, select, textarea {
 		letter-spacing: -1px;
 		color: rgb(201, 106, 18);
 	}
-
 		h2.alt {
 			color: #888;
 		}
@@ -145,7 +144,7 @@ input, select, textarea {
 
 	header {
 		margin: 0 0 2em 0;
-		color:rgb(4, 1, 19);
+		color:rgb(8, 3, 54);
 	}
 	header:hover {
 		color: rgb(219, 28, 28);
@@ -1780,6 +1779,8 @@ input, select, textarea {
 			}	
 
 		.image.fit {
+			color: #71afdb;
+			font-weight: 400;
 			display: block;
 			width: 100%;
 			background: rgb(243, 245, 248);
