@@ -156,10 +156,17 @@ input, select, textarea {
 	}
 	.iframe {
 		border-radius: 10px;
+		position: absolute;
+		top: 0;
+		left: 0;
+		opacity: 0.6;
+	}
+	#iframe {
 		position: relative;
-		top: 30px;
-		right: 70px;
-		opacity: 0.7;
+		width: 70%;
+		margin: 0 auto;
+		display: block;
+		padding-bottom: 50%;
 	}
 
 	strong, b {
