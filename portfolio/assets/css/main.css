@@ -144,7 +144,9 @@ input, select, textarea {
 
 	header {
 		margin: 0 0 2em 0;
-		color:rgb(8, 3, 54);
+		/* color:rgb(8, 3, 54); */
+		color: rgb(13, 6, 53);
+		opacity: 0.9;
 	}
 	
 	header > p {
@@ -2268,7 +2270,7 @@ f
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url(../../images/myvillage.jpg)
+				background-image: url(../../images/alamere-falls.jpg);
 			}
 			#main > section.two {
 				background-color: #f5fafa;
